@@ -1,3 +1,5 @@
+package Lecture_3;
+
 import java.util.Scanner;
 public class maxelement{
     public static void main(String[]args){
